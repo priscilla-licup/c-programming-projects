@@ -3,6 +3,7 @@
 Good day! This repository contains the coding project I have completed in the past with the C programming language. It showcases my development in Logic Formulation and the Introductory Programming of our course. 
 
 **Project Description:**
+
 Shirt Entrepreneur Game
 
 You are an up-and-coming t-shirt entrepreneur, wishing to climb up the shirt selling industry and be
