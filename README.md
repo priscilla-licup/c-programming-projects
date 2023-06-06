@@ -1,6 +1,6 @@
 # c-programming-projects
 
-Good day! This repository contains the coding project I have completed in the past with the C programming language. It showcases my development in Logic Formulation and the Introductory Programming of our course. 
+Good day! This repository contains the coding project I have completed in the past with the C programming language. It showcases my implementation and development in Logic Formulation and the Introductory Programming of our course. 
 
 **Project Description:**
 
